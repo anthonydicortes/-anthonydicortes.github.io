@@ -6,7 +6,7 @@ lastupdate: 2018-01-31 19:20:49 +0800
 img: https://i.loli.net/2017/07/27/597998279d766.jpg
 ---
 
-## 关于我
+## About me
 
 不知何时开始，变得不善于现实世界中的交际。或许是觉得无趣，又或许说是懒。
 
@@ -27,7 +27,7 @@ powered by Jekyll & MDUI
 不定时回访，无法访问会删除。抱歉啦~
 
 ```yml
-昵称：KeJun
+昵称：Anthony
 网址：https://kejun.me
 头像url：https://ooo.0o0.ooo/2017/03/14/58c775b701fd8.png
 网站简介： 二次元智障
