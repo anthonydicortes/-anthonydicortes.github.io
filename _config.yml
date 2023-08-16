@@ -2,30 +2,34 @@ title: "Anthony Cortés"
 description: "A Jekyll theme based on MDUI"
 url: 
 baseurl: ""
-author: "KeJun"
+author: "Anthony Cortes"
 paginate: 5
 paginate_path: "/blog/page:num/"
 
 
 # Build settings
-# theme: jekyll-theme-mdui
-remote_theme: jekyll-theme-mdui
 markdown: kramdown
+theme: jekyll-theme-mdui
 # highlighter: route
 # permalink: /:title/
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-feed
-  - jekyll-include-cache
 
 exclude:
-  - package.json
-  - node_modules
-  - gulpfile.js
   - Gemfile
   - Gemfile.lock
-  - jekyll-theme-mdui.gemspec
-  - LICENSE.txt
-  - README.md
-  - vendor
+  - .gitignore
+  - node_modules
+
+
+#  - package.json
+#  - node_modules
+#  - gulpfile.js
+#  - Gemfile
+#  - Gemfile.lock
+#  - jekyll-theme-mdui.gemspec
+#  - LICENSE.txt
+#  - README.md
+#  - vendor
