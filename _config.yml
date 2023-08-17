@@ -16,20 +16,15 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-feed
+  - jekyll-include-cache
 
 exclude:
+  - package.json
+  - node_modules
+  - gulpfile.js
   - Gemfile
   - Gemfile.lock
-  - .gitignore
-  - node_modules
-
-
-#  - package.json
-#  - node_modules
-#  - gulpfile.js
-#  - Gemfile
-#  - Gemfile.lock
-#  - jekyll-theme-mdui.gemspec
-#  - LICENSE.txt
-#  - README.md
-#  - vendor
+  - jekyll-theme-mdui.gemspec
+  - LICENSE.txt
+  - README.md
+  - vendor
