@@ -1,0 +1,5 @@
+baseURL = 'https://anthonydicortes.github.io'
+languageCode = 'en-us'
+title = 'Anthony blog'
+
+theme="hugo-coder"
