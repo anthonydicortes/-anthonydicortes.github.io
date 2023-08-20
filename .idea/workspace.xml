@@ -4,109 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4b5870a-7919-4aa3-880d-e101609ea204" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/friends.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/lang.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/meng.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/menus.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/site.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/sns.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-04-14-ubuntu-installs-apache-masql-php-and-phpmyadmin.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-03-23-android-o.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-27-how-to-install-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-27-how-to-install-rvm.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-27-liquid-template-language.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-27-use-adb-and-fastboot-to-save-my-nexus5x.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-29-jekyll-theme-mdui.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-5-30-Jekyll-Theme-MDUI-Editor.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/touch/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/touch/chrome-touch-icon-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/touch/icon-128x128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/touch/ms-touch-icon-144x144-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2d/koharu/koharu.2048/texture_00.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2d/koharu/koharu.moc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2d/koharu/koharu.model.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2d/koharu/koharu.physics.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2d/koharu/mtn/01.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2d/koharu/mtn/02.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2d/koharu/mtn/03.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2d/koharu/mtn/04.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2d/koharu/mtn/05.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2d/koharu/mtn/06.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2d/koharu/mtn/07.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2d/koharu/mtn/08.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2d/koharu/mtn/09.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2d/koharu/mtn/idle.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/Living.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/technology.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/css/customCss.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/css/global.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/touch/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/touch/chrome-touch-icon-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/touch/icon-128x128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/images/touch/ms-touch-icon-144x144-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/History.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/customJS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/live2d/koharu/koharu.2048/texture_00.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/live2d/koharu/koharu.moc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/live2d/koharu/koharu.model.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/live2d/koharu/koharu.physics.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/live2d/koharu/mtn/01.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/live2d/koharu/mtn/02.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/live2d/koharu/mtn/03.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/live2d/koharu/mtn/04.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/live2d/koharu/mtn/05.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/live2d/koharu/mtn/06.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/live2d/koharu/mtn/07.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/live2d/koharu/mtn/08.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/live2d/koharu/mtn/09.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/live2d/koharu/mtn/idle.mtn" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog/page2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/category/Living.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/category/technology.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/feed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/living/2016/10/27/use-adb-and-fastboot-to-save-my-nexus5x.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/living/2017/03/23/android-o.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/living/2017/05/27/liquid-template-language.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/living/2017/05/28/jekyll-theme-mdui.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/living/2017/05/29/Jekyll-Theme-MDUI-Editor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pages/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pages/category.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pages/design.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pages/editor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pages/friends.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pages/tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/search.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/sw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tags.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/technology/2016/04/13/ubuntu-installs-apache-masql-php-and-phpmyadmin.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/technology/2017/05/27/how-to-install-jekyll.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/technology/2017/05/27/how-to-install-rvm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/category.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/design.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/editor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/friends.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/search.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags.json" beforeDir="false" />
+    <list default="true" id="d4b5870a-7919-4aa3-880d-e101609ea204" name="Changes" comment="First commit with hugo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,6 +49,19 @@
       <option name="presentableId" value="Default" />
       <updated>1692243017041</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit with hugo">
+      <option name="closed" value="true" />
+      <created>1692245482222</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692245482222</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit with hugo" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit with hugo" />
   </component>
 </project>
