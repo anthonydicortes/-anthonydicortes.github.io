@@ -4,14 +4,13 @@ My personal blog to talking about my life path as a latam scala software enginee
 Documentation(https://mdui.kejun.me/#/quickstart)
 
 ### To install the blog
-bundle install
+
 
 ### To generate the deployment files run the following command:
-bundle exec jekyll b
+hugo -d "./docs" -t hugo-coder
 
 ### Local preview:
-Use the bundle exec jekyll s to run a local server, the default visit http://localhost:4000
-bundle exec jekyll s
+hugo server
 
 ### The blog's url:
 anthonydicortes.github.io
